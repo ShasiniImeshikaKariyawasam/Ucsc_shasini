@@ -6,3 +6,7 @@ shasini
 maths
 physics
 chemistry
+shasini
+chemistry
+physics
+maths
